@@ -1,5 +1,4 @@
-### Toolkit metioned in my paper "Injecting Word Embeddings with Another Language’s Resource : An
-application of Bilingual Embeddings"
+### Toolkit metioned in my IJCNLP'17 paper "Injecting Word Embeddings with Another Language’s Resource : An application of Bilingual Embeddings"
 
 ### Requirements : 
 1. Python 3.5
